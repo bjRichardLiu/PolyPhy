@@ -158,3 +158,5 @@ data/csv/TNG50_galmcpm_99_normalized.csv
 */imgui.ini
 src/polyphy/imgui.ini
 data/csv/TNG50_galmcpm_99.ascii
+
+*.npy

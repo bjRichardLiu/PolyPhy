@@ -21,3 +21,5 @@ trimesh
 PyMCubes
 scikit-image
 path
+pycollada
+fast_simplification
